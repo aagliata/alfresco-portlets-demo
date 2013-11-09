@@ -1,0 +1,10 @@
+<webscript>
+  <shortname>Full Text Search Form</shortname>
+  <description>Show the keyword search form</description>
+  <url>/gatein/search</url>
+  <url>/gatein/search.portlet</url>
+  <authentication>user</authentication>
+  <format default="html" />
+  <transaction allow="readonly">required</transaction>
+  <family>GateIn - Portlets</family>
+</webscript>
