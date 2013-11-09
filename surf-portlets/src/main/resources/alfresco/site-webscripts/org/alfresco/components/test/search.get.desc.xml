@@ -1,0 +1,6 @@
+<webscript>
+   <shortname>Test Search</shortname>
+   <description>Test Search</description>
+   <authentication>none</authentication>
+   <url>/components/test/search</url>
+</webscript>

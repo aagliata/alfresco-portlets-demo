@@ -1,0 +1,14 @@
+.test-search form {
+	margin: 1em 0 0 2em;
+}
+
+.test-search ol.results 
+{
+	margin-top: 2em;
+	list-style-type: decimal;
+}
+
+.test-search ol.results li
+{
+	list-style: inherit;
+}
