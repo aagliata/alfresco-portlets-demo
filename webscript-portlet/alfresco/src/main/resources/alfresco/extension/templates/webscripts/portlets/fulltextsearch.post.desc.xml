@@ -1,0 +1,9 @@
+<webscript>
+  <shortname>Full Text Search Results</shortname>
+  <description>Show the results of the keyword search</description>
+  <url>/gatein/search?keyword={keyword}</url>
+  <authentication>user</authentication>
+  <format default="portlet" />
+  <transaction allow="readonly">required</transaction>
+  <family>GateIn - Portlets</family>
+</webscript>
